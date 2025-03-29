@@ -72,6 +72,7 @@ export default function Navbar() {
               </Link>
             </div>
           </div>
+
           <div className="flex items-center gap-2">
             <CircleHelp color="#E90313" size={25} />
             <div className="text-white">
